@@ -5,6 +5,7 @@
     "activityBar.background": "#141820",
     "activityBarBadge.background": "#4B76CF",
     "activityBarBadge.foreground": "#ffffff",
+    "debugToolBar.background": "#212836",
     "diffEditor.insertedTextBackground": "#66f0c213",
     "dropdown.background": "#141820",
     "editor.background": "#212836",
