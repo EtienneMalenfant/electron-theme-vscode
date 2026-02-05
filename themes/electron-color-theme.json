@@ -89,13 +89,6 @@
       }
     },
     {
-      "name": "Strings, Inherited Class",
-      "scope": "string.unquoted.html, string.quoted.double.js, string.quoted.single.html, constant.other.symbol, entity.other.inherited-class",
-      "settings": {
-        "foreground": "#B3D667"
-      }
-    },
-    {
       "name": "String single quoted JS",
       "scope": "string.quoted.single.js",
       "settings": {
@@ -161,21 +154,6 @@
       "scope": "storage.type",
       "settings": {
         "foreground": "#D59DF6"
-      }
-    },
-    {
-      "name": "Class name",
-      "scope": "entity.name.class",
-      "settings": {
-        "foreground": "#82C600"
-      }
-    },
-    {
-      "name": "Inherited class",
-      "scope": "entity.other.inherited-class",
-      "settings": {
-        "fontStyle": "italic underline",
-        "foreground": "#82C600"
       }
     },
     {
